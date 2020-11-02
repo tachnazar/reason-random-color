@@ -1,4 +1,4 @@
-#Start(264703723)
+#Start(8778755)
 
   We've found a bug for you!
   c:\Users\tachm\Desktop\reason-random-color\src\Index.re:2:38-45
@@ -15,4 +15,4 @@
       (latter builds third-parties)?
   - Did you include the file's directory in bsconfig.json?
   
-#Done(264704026)
+#Done(8778791)

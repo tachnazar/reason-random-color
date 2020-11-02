@@ -10,9 +10,9 @@ function Squares(Props) {
                             key: square.key,
                             style: {
                               background: square.color,
-                              height: "200px",
-                              margin: "20px",
-                              width: "200px"
+                              height: "150px",
+                              margin: "10px",
+                              width: "150px"
                             }
                           });
               }));
